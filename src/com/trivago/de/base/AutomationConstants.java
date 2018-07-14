@@ -5,8 +5,6 @@ public interface AutomationConstants
 	public static  final String CONFIG_PATH="./config/config.properties";
 
 	public static  final String REPORT_PATH="./report/";
-
-	public static  final String INPUT_PATH="./data/input.xlsx";
 	
 	public static  final String CHROME_KEY="webdriver.chrome.driver";
 	
@@ -18,6 +16,5 @@ public interface AutomationConstants
 	
 	public static  final String SNAP_PATH="./snap/";
 	
-	public static  final String INPUT_PATH2="./data/importData.csv";
 	
 }

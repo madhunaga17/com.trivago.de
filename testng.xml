@@ -6,6 +6,7 @@
       <class name="com.trivago.de.scripts.ContactForm"/>
       <class name="com.trivago.de.scripts.SearchBarTest"/>
       <class name="com.trivago.de.scripts.Subscribe_Newsletter"/>
+      <class name="com.trivago.de.scripts.Destination"/>
     </classes>
   </test> <!-- Test -->
 </suite> <!-- Suite -->

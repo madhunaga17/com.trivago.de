@@ -110,10 +110,6 @@ public abstract class BaseTest implements AutomationConstants{
 	@BeforeMethod
 	public void preCondition(Method method){
 		driver.get(url);
-		/*if(loginRequired){
-			log.info("Auto login");
-			new LoginPage(driver).login(un,pw);
-		}*/
 		eTest=eReport.startTest(method.getName());
 		log.info("Started executing test:"+method.getName());
 	}
@@ -124,16 +120,9 @@ public abstract class BaseTest implements AutomationConstants{
 		
 		if(testNGTestResult.getStatus()==ITestResult.FAILURE)
 		{
-			
-//			Utility.getScreenShot(SNAP_PATH);
-//			Utility.getScreenShot(driver, SNAP_PATH);
-			
+
 			String imgPath=Utility.getScreenShot(driver, REPORT_PATH);
-			//System.out.println(imgPath);
 			String path=eTest.addScreenCapture("."+imgPath);
-			// this is to solve the broken image
-			//when the path is printed it is like ./report/25_02.png, but in html ./ refers to current folder 
-			//hence we concatenate one more "." to refer to parent which is the java project.
 			eTest.log(LogStatus.FAIL,"Check log for details",path);
 			log.error("Test is FAILED");
 		}
@@ -144,10 +133,6 @@ public abstract class BaseTest implements AutomationConstants{
 		}
 		eReport.endTest(eTest);
 		
-	/*	if(logoutRequired){
-			log.info("Auto logout");
-			new DashboardPage(driver).logout();
-		}*/
 	}
 }
 

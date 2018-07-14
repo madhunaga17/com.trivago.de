@@ -1,21 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+<testng-results skipped="0" failed="0" ignored="9" total="13" passed="4">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="25347" started-at="2018-07-14T15:53:19Z" finished-at="2018-07-14T15:53:44Z">
+  <suite name="Suite" duration-ms="93567" started-at="2018-07-14T15:59:03Z" finished-at="2018-07-14T16:00:36Z">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="25347" started-at="2018-07-14T15:53:19Z" finished-at="2018-07-14T15:53:44Z">
+    <test name="Test" duration-ms="93567" started-at="2018-07-14T15:59:03Z" finished-at="2018-07-14T16:00:36Z">
       <class name="com.trivago.de.scripts.Destination">
-        <test-method status="PASS" signature="initReport()[pri:0, instance:com.trivago.de.scripts.Destination@610694f1]" name="initReport" is-config="true" duration-ms="261" started-at="2018-07-14T15:53:19Z" finished-at="2018-07-14T15:53:19Z">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- initReport -->
-        <test-method status="PASS" signature="initGlobalVar()[pri:0, instance:com.trivago.de.scripts.Destination@610694f1]" name="initGlobalVar" is-config="true" duration-ms="2" started-at="2018-07-14T15:53:19Z" finished-at="2018-07-14T15:53:19Z">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- initGlobalVar -->
-        <test-method status="PASS" signature="initApplication(java.lang.String)[pri:0, instance:com.trivago.de.scripts.Destination@610694f1]" name="initApplication" is-config="true" duration-ms="6417" started-at="2018-07-14T15:53:19Z" finished-at="2018-07-14T15:53:25Z">
+        <test-method status="PASS" signature="initApplication(java.lang.String)[pri:0, instance:com.trivago.de.scripts.Destination@578486a3]" name="initApplication" is-config="true" duration-ms="3490" started-at="2018-07-14T16:00:13Z" finished-at="2018-07-14T16:00:17Z">
           <params>
             <param index="0">
               <value>
@@ -26,7 +18,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- initApplication -->
-        <test-method status="PASS" signature="preCondition(java.lang.reflect.Method)[pri:0, instance:com.trivago.de.scripts.Destination@610694f1]" name="preCondition" is-config="true" duration-ms="6351" started-at="2018-07-14T15:53:25Z" finished-at="2018-07-14T15:53:32Z">
+        <test-method status="PASS" signature="preCondition(java.lang.reflect.Method)[pri:0, instance:com.trivago.de.scripts.Destination@578486a3]" name="preCondition" is-config="true" duration-ms="7567" started-at="2018-07-14T16:00:17Z" finished-at="2018-07-14T16:00:24Z">
           <params>
             <param index="0">
               <value>
@@ -37,30 +29,167 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- preCondition -->
-        <test-method status="PASS" signature="SearchBarCase()[pri:4, instance:com.trivago.de.scripts.Destination@610694f1]" name="SearchBarCase" duration-ms="11760" started-at="2018-07-14T15:53:32Z" description="Destination" finished-at="2018-07-14T15:53:43Z">
+        <test-method status="PASS" signature="SearchBarCase()[pri:4, instance:com.trivago.de.scripts.Destination@578486a3]" name="SearchBarCase" duration-ms="11119" started-at="2018-07-14T16:00:24Z" description="Destination" finished-at="2018-07-14T16:00:35Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- SearchBarCase -->
-        <test-method status="PASS" signature="postCondition(org.testng.ITestResult)[pri:0, instance:com.trivago.de.scripts.Destination@610694f1]" name="postCondition" is-config="true" duration-ms="6" started-at="2018-07-14T15:53:43Z" finished-at="2018-07-14T15:53:43Z">
+        <test-method status="PASS" signature="postCondition(org.testng.ITestResult)[pri:0, instance:com.trivago.de.scripts.Destination@578486a3]" name="postCondition" is-config="true" duration-ms="1" started-at="2018-07-14T16:00:35Z" finished-at="2018-07-14T16:00:35Z">
           <params>
             <param index="0">
               <value>
-                <![CDATA[[TestResult name=SearchBarCase status=SUCCESS method=Destination.SearchBarCase()[pri:4, instance:com.trivago.de.scripts.Destination@610694f1] output={null}]]]>
+                <![CDATA[[TestResult name=SearchBarCase status=SUCCESS method=Destination.SearchBarCase()[pri:4, instance:com.trivago.de.scripts.Destination@578486a3] output={null}]]]>
               </value>
             </param>
           </params>
           <reporter-output>
           </reporter-output>
         </test-method> <!-- postCondition -->
-        <test-method status="PASS" signature="closeApplication()[pri:0, instance:com.trivago.de.scripts.Destination@610694f1]" name="closeApplication" is-config="true" duration-ms="773" started-at="2018-07-14T15:53:43Z" finished-at="2018-07-14T15:53:44Z">
+        <test-method status="PASS" signature="closeApplication()[pri:0, instance:com.trivago.de.scripts.Destination@578486a3]" name="closeApplication" is-config="true" duration-ms="784" started-at="2018-07-14T16:00:35Z" finished-at="2018-07-14T16:00:36Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- closeApplication -->
-        <test-method status="PASS" signature="publishReport()[pri:0, instance:com.trivago.de.scripts.Destination@610694f1]" name="publishReport" is-config="true" duration-ms="585" started-at="2018-07-14T15:53:44Z" finished-at="2018-07-14T15:53:45Z">
+      </class> <!-- com.trivago.de.scripts.Destination -->
+      <class name="com.trivago.de.scripts.SearchBarTest">
+        <test-method status="PASS" signature="initApplication(java.lang.String)[pri:0, instance:com.trivago.de.scripts.SearchBarTest@2758fe70]" name="initApplication" is-config="true" duration-ms="5987" started-at="2018-07-14T15:59:03Z" finished-at="2018-07-14T15:59:09Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initApplication -->
+        <test-method status="PASS" signature="preCondition(java.lang.reflect.Method)[pri:0, instance:com.trivago.de.scripts.SearchBarTest@2758fe70]" name="preCondition" is-config="true" duration-ms="5146" started-at="2018-07-14T15:59:09Z" finished-at="2018-07-14T15:59:14Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.trivago.de.scripts.SearchBarTest.SearchBarCase() throws java.lang.InterruptedException]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- preCondition -->
+        <test-method status="PASS" signature="SearchBarCase()[pri:0, instance:com.trivago.de.scripts.SearchBarTest@2758fe70]" name="SearchBarCase" duration-ms="2786" started-at="2018-07-14T15:59:14Z" description="Search for any location on Room5 by using the search bar" finished-at="2018-07-14T15:59:16Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SearchBarCase -->
+        <test-method status="PASS" signature="postCondition(org.testng.ITestResult)[pri:0, instance:com.trivago.de.scripts.SearchBarTest@2758fe70]" name="postCondition" is-config="true" duration-ms="9" started-at="2018-07-14T15:59:16Z" finished-at="2018-07-14T15:59:16Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=SearchBarCase status=SUCCESS method=SearchBarTest.SearchBarCase()[pri:0, instance:com.trivago.de.scripts.SearchBarTest@2758fe70] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- postCondition -->
+        <test-method status="PASS" signature="closeApplication()[pri:0, instance:com.trivago.de.scripts.SearchBarTest@2758fe70]" name="closeApplication" is-config="true" duration-ms="819" started-at="2018-07-14T15:59:16Z" finished-at="2018-07-14T15:59:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeApplication -->
+      </class> <!-- com.trivago.de.scripts.SearchBarTest -->
+      <class name="com.trivago.de.scripts.Subscribe_Newsletter">
+        <test-method status="PASS" signature="initApplication(java.lang.String)[pri:0, instance:com.trivago.de.scripts.Subscribe_Newsletter@1f36e637]" name="initApplication" is-config="true" duration-ms="3525" started-at="2018-07-14T15:59:49Z" finished-at="2018-07-14T15:59:53Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initApplication -->
+        <test-method status="PASS" signature="preCondition(java.lang.reflect.Method)[pri:0, instance:com.trivago.de.scripts.Subscribe_Newsletter@1f36e637]" name="preCondition" is-config="true" duration-ms="7712" started-at="2018-07-14T15:59:53Z" finished-at="2018-07-14T16:00:00Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.trivago.de.scripts.Subscribe_Newsletter.SearchBarCase() throws java.lang.InterruptedException]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- preCondition -->
+        <test-method status="PASS" signature="SearchBarCase()[pri:3, instance:com.trivago.de.scripts.Subscribe_Newsletter@1f36e637]" name="SearchBarCase" duration-ms="11865" started-at="2018-07-14T16:00:00Z" description="Subscribe Newsletter" finished-at="2018-07-14T16:00:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SearchBarCase -->
+        <test-method status="PASS" signature="postCondition(org.testng.ITestResult)[pri:0, instance:com.trivago.de.scripts.Subscribe_Newsletter@1f36e637]" name="postCondition" is-config="true" duration-ms="1" started-at="2018-07-14T16:00:12Z" finished-at="2018-07-14T16:00:12Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=SearchBarCase status=SUCCESS method=Subscribe_Newsletter.SearchBarCase()[pri:3, instance:com.trivago.de.scripts.Subscribe_Newsletter@1f36e637] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- postCondition -->
+        <test-method status="PASS" signature="closeApplication()[pri:0, instance:com.trivago.de.scripts.Subscribe_Newsletter@1f36e637]" name="closeApplication" is-config="true" duration-ms="812" started-at="2018-07-14T16:00:12Z" finished-at="2018-07-14T16:00:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeApplication -->
+      </class> <!-- com.trivago.de.scripts.Subscribe_Newsletter -->
+      <class name="com.trivago.de.scripts.ContactForm">
+        <test-method status="PASS" signature="initReport()[pri:0, instance:com.trivago.de.scripts.ContactForm@2b552920]" name="initReport" is-config="true" duration-ms="253" started-at="2018-07-14T15:59:02Z" finished-at="2018-07-14T15:59:03Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initReport -->
+        <test-method status="PASS" signature="initGlobalVar()[pri:0, instance:com.trivago.de.scripts.ContactForm@2b552920]" name="initGlobalVar" is-config="true" duration-ms="3" started-at="2018-07-14T15:59:03Z" finished-at="2018-07-14T15:59:03Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initGlobalVar -->
+        <test-method status="PASS" signature="initApplication(java.lang.String)[pri:0, instance:com.trivago.de.scripts.ContactForm@2b552920]" name="initApplication" is-config="true" duration-ms="3517" started-at="2018-07-14T15:59:17Z" finished-at="2018-07-14T15:59:21Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initApplication -->
+        <test-method status="PASS" signature="preCondition(java.lang.reflect.Method)[pri:0, instance:com.trivago.de.scripts.ContactForm@2b552920]" name="preCondition" is-config="true" duration-ms="7503" started-at="2018-07-14T15:59:21Z" finished-at="2018-07-14T15:59:28Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.trivago.de.scripts.ContactForm.ContactFormCase() throws java.lang.InterruptedException]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- preCondition -->
+        <test-method status="PASS" signature="ContactFormCase()[pri:1, instance:com.trivago.de.scripts.ContactForm@2b552920]" name="ContactFormCase" duration-ms="20003" started-at="2018-07-14T15:59:28Z" description="Fill in the contact form and send it (accessible through the footer)" finished-at="2018-07-14T15:59:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ContactFormCase -->
+        <test-method status="PASS" signature="postCondition(org.testng.ITestResult)[pri:0, instance:com.trivago.de.scripts.ContactForm@2b552920]" name="postCondition" is-config="true" duration-ms="2" started-at="2018-07-14T15:59:48Z" finished-at="2018-07-14T15:59:48Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=ContactFormCase status=SUCCESS method=ContactForm.ContactFormCase()[pri:1, instance:com.trivago.de.scripts.ContactForm@2b552920] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- postCondition -->
+        <test-method status="PASS" signature="closeApplication()[pri:0, instance:com.trivago.de.scripts.ContactForm@2b552920]" name="closeApplication" is-config="true" duration-ms="856" started-at="2018-07-14T15:59:48Z" finished-at="2018-07-14T15:59:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeApplication -->
+        <test-method status="PASS" signature="publishReport()[pri:0, instance:com.trivago.de.scripts.ContactForm@2b552920]" name="publishReport" is-config="true" duration-ms="611" started-at="2018-07-14T16:00:36Z" finished-at="2018-07-14T16:00:37Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- publishReport -->
-      </class> <!-- com.trivago.de.scripts.Destination -->
-    </test> <!-- Default test -->
-  </suite> <!-- Default suite -->
+      </class> <!-- com.trivago.de.scripts.ContactForm -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
 </testng-results>

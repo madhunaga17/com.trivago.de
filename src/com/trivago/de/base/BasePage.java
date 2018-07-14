@@ -33,102 +33,13 @@ public abstract class BasePage {
   public void verifyURLhas(String expectedUrl){
 	  wait.until(ExpectedConditions.urlContains(expectedUrl));
   }
-  
-  
-  
-  public void verifyElementIsPresent(WebElement element)
-  {
-	 /* try
-	  {
-		  wait.until(ExpectedConditions.visibilityOf(element));
-		  log.info("Element is Present");
-	  }
-	  catch(Exception e)
-	  {
-		  log.error("Element Not Present");
-		  Assert.fail();
-	  }
-	  
-	  */
-	  log.info("Verify Element is Present");
-	  boolean present =Utility.verifyElementIsPresent(driver, element);
-	  Assert.assertTrue(present, "Element is not present");
-	  log.info("Element is Present");
-  }
-  
-  
-  public void verifyElementIsNotPresent(WebElement element)
-  {
-	  try
-	  {
-		  wait.until(ExpectedConditions.visibilityOf(element));
-		  log.error("FAIL:Element is Present");
-		  Assert.fail();
-	  }
-	  catch(Exception e)
-	  {
-		  log.info("PASS:Element Not Present");
-		  
-	  }
-  }
-  
-  
-  public void verifyElementIsNotPresent(By locator)
-  {
-	  try
-	  {
-		  wait.until(ExpectedConditions.visibilityOfElementLocated(locator));
-		  log.error("FAIL:Element is Present");
-		  Assert.fail();
-	  }
-	  catch(Exception e)
-	  {
-		  log.info("PASS:Element Not Present");
-		  
-	  }
-  }
-  
-  
+   
   
   public  void waitAndClick(WebElement element)
 	{
 		wait.until(ExpectedConditions.elementToBeClickable(element));
 		element.click();
 	}
-  
-  
-  
-  public void verifyListBoxIsSorted(WebElement listBox,int startIndex)
-  {
-	 ArrayList<String> allText = Utility.getAllTextFromListBox(listBox,startIndex);
-	 boolean isSorted = Utility.checkIfArrayListIsSorted(allText);
-	 Assert.assertTrue(isSorted, "ListBox is Not Sorted");
-  }
-  
-  
-  public void verifyListBoxHasNoDuplicate(WebElement listBox,int startIndex)
-  {
-	  ArrayList<String> allText =Utility.getAllTextFromListBox(listBox,startIndex);
-	  boolean hasDuplicate =Utility.checkArrayListHasDuplicate(allText);
-	  Assert.assertFalse(hasDuplicate, "ListBox has duplicate");
-	  
-  }
-  
-  public boolean verifyElementIsPresentOrNot(WebElement element)
-  {
-	  try
-	  {
-		  wait.until(ExpectedConditions.visibilityOf(element));
-		  log.error("PASS:Element is Present");
-		  return true;
-	  }
-	  catch(Exception e)
-	  {
-		  log.info("FAIL:Element Not Present");
-		  return false;
-	  }  
-  
-  }
 
   public void switchToWindows(){
 	  String handle= driver.getWindowHandle();
