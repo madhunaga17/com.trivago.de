@@ -21,6 +21,15 @@ public abstract class HomePage extends BasePage{
 	@FindBy(xpath="//div[@class='Cookie__button']")
 	private WebElement CookieButton;
 	
+	@FindBy(id="confirm")
+	private WebElement ConfirmCheckBox;
+	
+	@FindBy(name="email")
+	private WebElement Email;
+	
+	@FindBy(xpath="//button[@class='submit']")
+	private WebElement Inspire_Me;
+	
 	public void click_TrivagoMagazine_Link(){
 		TrivagoMagazine_Link.click();
 	}
@@ -39,6 +48,19 @@ public abstract class HomePage extends BasePage{
 	
 	public void click_CookieButton(){
 		CookieButton.click();
+	}
+	
+	public void selectConfirmCheckBox(){
+		ConfirmCheckBox.click();
+	}
+	
+	public void sendEmail(){
+		Email.sendKeys("madhu.anjanappa@outlook.com");
+	}
+	
+	public void clickInspireMe(){
+		Inspire_Me.click();
+		System.out.println("Newsletter Subscribed");
 	}
 	
 	public HomePage(WebDriver driver) {

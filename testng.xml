@@ -5,6 +5,7 @@
     <classes>
       <class name="com.trivago.de.scripts.ContactForm"/>
       <class name="com.trivago.de.scripts.SearchBarTest"/>
+      <class name="com.trivago.de.scripts.Subscribe_Newsletter"/>
     </classes>
   </test> <!-- Test -->
 </suite> <!-- Suite -->

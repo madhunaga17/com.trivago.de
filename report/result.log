@@ -164,3 +164,61 @@ com.trivago.de.scripts.SearchBarTest 2018-07-14 16:55:41,632 com.trivago.de.base
 com.trivago.de.scripts.SearchBarTest 2018-07-14 16:55:59,708 com.trivago.de.base.BaseTest.postCondition(BaseTest.java:143) Test is PASSED 
 com.trivago.de.scripts.SearchBarTest 2018-07-14 16:55:59,710 com.trivago.de.base.BaseTest.closeApplication(BaseTest.java:106) Closing Browser 
 com.trivago.de.scripts.SearchBarTest 2018-07-14 16:56:00,583 com.trivago.de.base.BaseTest.publishReport(BaseTest.java:66) Publishing ExtentReport:./report/14_07_2018_04_55_09.html 
+com.trivago.de.scripts.Subscribe_Newsletter 2018-07-14 17:21:07,884 com.trivago.de.base.BaseTest.initReport(BaseTest.java:57) Initializing ExtentReport 
+com.trivago.de.scripts.Subscribe_Newsletter 2018-07-14 17:21:08,140 com.trivago.de.base.BaseTest.initGlobalVar(BaseTest.java:72) Initialize Global Variables 
+com.trivago.de.scripts.Subscribe_Newsletter 2018-07-14 17:21:08,172 com.trivago.de.base.BaseTest.initApplication(BaseTest.java:83) Opening Browser:chrome 
+com.trivago.de.scripts.Subscribe_Newsletter 2018-07-14 17:21:18,769 com.trivago.de.base.BaseTest.preCondition(BaseTest.java:118) Started executing test:SearchBarCase 
+com.trivago.de.scripts.Subscribe_Newsletter 2018-07-14 17:21:22,364 com.trivago.de.base.BaseTest.postCondition(BaseTest.java:143) Test is PASSED 
+com.trivago.de.scripts.Subscribe_Newsletter 2018-07-14 17:21:22,369 com.trivago.de.base.BaseTest.closeApplication(BaseTest.java:106) Closing Browser 
+com.trivago.de.scripts.Subscribe_Newsletter 2018-07-14 17:21:23,162 com.trivago.de.base.BaseTest.initApplication(BaseTest.java:83) Opening Browser:chrome 
+com.trivago.de.scripts.Subscribe_Newsletter 2018-07-14 17:21:35,061 com.trivago.de.base.BaseTest.preCondition(BaseTest.java:118) Started executing test:ContactFormCase 
+com.trivago.de.scripts.Subscribe_Newsletter 2018-07-14 17:21:50,623 com.trivago.de.base.BaseTest.postCondition(BaseTest.java:143) Test is PASSED 
+com.trivago.de.scripts.Subscribe_Newsletter 2018-07-14 17:21:50,624 com.trivago.de.base.BaseTest.closeApplication(BaseTest.java:106) Closing Browser 
+com.trivago.de.scripts.Subscribe_Newsletter 2018-07-14 17:21:51,457 com.trivago.de.base.BaseTest.initApplication(BaseTest.java:83) Opening Browser:chrome 
+com.trivago.de.scripts.Subscribe_Newsletter 2018-07-14 17:22:02,458 com.trivago.de.base.BaseTest.preCondition(BaseTest.java:118) Started executing test:SearchBarCase 
+com.trivago.de.scripts.Subscribe_Newsletter 2018-07-14 17:22:05,998 com.trivago.de.base.BaseTest.postCondition(BaseTest.java:138) Test is FAILED 
+com.trivago.de.scripts.Subscribe_Newsletter 2018-07-14 17:22:05,999 com.trivago.de.base.BaseTest.closeApplication(BaseTest.java:106) Closing Browser 
+com.trivago.de.scripts.Subscribe_Newsletter 2018-07-14 17:22:06,847 com.trivago.de.base.BaseTest.publishReport(BaseTest.java:66) Publishing ExtentReport:./report/14_07_2018_05_21_07.html 
+com.trivago.de.scripts.Subscribe_Newsletter 2018-07-14 17:22:21,192 com.trivago.de.base.BaseTest.initReport(BaseTest.java:57) Initializing ExtentReport 
+com.trivago.de.scripts.Subscribe_Newsletter 2018-07-14 17:22:21,434 com.trivago.de.base.BaseTest.initGlobalVar(BaseTest.java:72) Initialize Global Variables 
+com.trivago.de.scripts.Subscribe_Newsletter 2018-07-14 17:22:21,461 com.trivago.de.base.BaseTest.initApplication(BaseTest.java:83) Opening Browser:chrome 
+com.trivago.de.scripts.Subscribe_Newsletter 2018-07-14 17:22:36,874 com.trivago.de.base.BaseTest.preCondition(BaseTest.java:118) Started executing test:SearchBarCase 
+com.trivago.de.scripts.Subscribe_Newsletter 2018-07-14 17:22:39,931 com.trivago.de.base.BaseTest.postCondition(BaseTest.java:138) Test is FAILED 
+com.trivago.de.scripts.Subscribe_Newsletter 2018-07-14 17:22:39,936 com.trivago.de.base.BaseTest.closeApplication(BaseTest.java:106) Closing Browser 
+com.trivago.de.scripts.Subscribe_Newsletter 2018-07-14 17:22:40,803 com.trivago.de.base.BaseTest.publishReport(BaseTest.java:66) Publishing ExtentReport:./report/14_07_2018_05_22_21.html 
+com.trivago.de.scripts.Subscribe_Newsletter 2018-07-14 17:23:52,802 com.trivago.de.base.BaseTest.initReport(BaseTest.java:57) Initializing ExtentReport 
+com.trivago.de.scripts.Subscribe_Newsletter 2018-07-14 17:23:53,038 com.trivago.de.base.BaseTest.initGlobalVar(BaseTest.java:72) Initialize Global Variables 
+com.trivago.de.scripts.Subscribe_Newsletter 2018-07-14 17:23:53,066 com.trivago.de.base.BaseTest.initApplication(BaseTest.java:83) Opening Browser:chrome 
+com.trivago.de.scripts.Subscribe_Newsletter 2018-07-14 17:24:04,104 com.trivago.de.base.BaseTest.preCondition(BaseTest.java:118) Started executing test:SearchBarCase 
+com.trivago.de.scripts.Subscribe_Newsletter 2018-07-14 17:24:07,310 com.trivago.de.base.BaseTest.postCondition(BaseTest.java:138) Test is FAILED 
+com.trivago.de.scripts.Subscribe_Newsletter 2018-07-14 17:24:07,314 com.trivago.de.base.BaseTest.closeApplication(BaseTest.java:106) Closing Browser 
+com.trivago.de.scripts.Subscribe_Newsletter 2018-07-14 17:24:08,140 com.trivago.de.base.BaseTest.publishReport(BaseTest.java:66) Publishing ExtentReport:./report/14_07_2018_05_23_52.html 
+com.trivago.de.scripts.Subscribe_Newsletter 2018-07-14 17:24:14,675 com.trivago.de.base.BaseTest.initReport(BaseTest.java:57) Initializing ExtentReport 
+com.trivago.de.scripts.Subscribe_Newsletter 2018-07-14 17:24:14,912 com.trivago.de.base.BaseTest.initGlobalVar(BaseTest.java:72) Initialize Global Variables 
+com.trivago.de.scripts.Subscribe_Newsletter 2018-07-14 17:24:14,940 com.trivago.de.base.BaseTest.initApplication(BaseTest.java:83) Opening Browser:chrome 
+com.trivago.de.scripts.Subscribe_Newsletter 2018-07-14 17:24:26,744 com.trivago.de.base.BaseTest.preCondition(BaseTest.java:118) Started executing test:SearchBarCase 
+com.trivago.de.scripts.Subscribe_Newsletter 2018-07-14 17:24:29,897 com.trivago.de.base.BaseTest.postCondition(BaseTest.java:138) Test is FAILED 
+com.trivago.de.scripts.Subscribe_Newsletter 2018-07-14 17:24:29,902 com.trivago.de.base.BaseTest.closeApplication(BaseTest.java:106) Closing Browser 
+com.trivago.de.scripts.Subscribe_Newsletter 2018-07-14 17:24:30,745 com.trivago.de.base.BaseTest.publishReport(BaseTest.java:66) Publishing ExtentReport:./report/14_07_2018_05_24_14.html 
+com.trivago.de.scripts.Subscribe_Newsletter 2018-07-14 17:24:59,289 com.trivago.de.base.BaseTest.initReport(BaseTest.java:57) Initializing ExtentReport 
+com.trivago.de.scripts.Subscribe_Newsletter 2018-07-14 17:24:59,539 com.trivago.de.base.BaseTest.initGlobalVar(BaseTest.java:72) Initialize Global Variables 
+com.trivago.de.scripts.Subscribe_Newsletter 2018-07-14 17:24:59,567 com.trivago.de.base.BaseTest.initApplication(BaseTest.java:83) Opening Browser:chrome 
+com.trivago.de.scripts.Subscribe_Newsletter 2018-07-14 17:25:11,428 com.trivago.de.base.BaseTest.preCondition(BaseTest.java:118) Started executing test:SearchBarCase 
+com.trivago.de.scripts.Subscribe_Newsletter 2018-07-14 17:25:23,258 com.trivago.de.base.BaseTest.postCondition(BaseTest.java:143) Test is PASSED 
+com.trivago.de.scripts.Subscribe_Newsletter 2018-07-14 17:25:23,265 com.trivago.de.base.BaseTest.closeApplication(BaseTest.java:106) Closing Browser 
+com.trivago.de.scripts.Subscribe_Newsletter 2018-07-14 17:25:24,105 com.trivago.de.base.BaseTest.publishReport(BaseTest.java:66) Publishing ExtentReport:./report/14_07_2018_05_24_59.html 
+com.trivago.de.scripts.Subscribe_Newsletter 2018-07-14 17:25:37,055 com.trivago.de.base.BaseTest.initReport(BaseTest.java:57) Initializing ExtentReport 
+com.trivago.de.scripts.Subscribe_Newsletter 2018-07-14 17:25:37,290 com.trivago.de.base.BaseTest.initGlobalVar(BaseTest.java:72) Initialize Global Variables 
+com.trivago.de.scripts.Subscribe_Newsletter 2018-07-14 17:25:37,321 com.trivago.de.base.BaseTest.initApplication(BaseTest.java:83) Opening Browser:chrome 
+com.trivago.de.scripts.Subscribe_Newsletter 2018-07-14 17:25:48,334 com.trivago.de.base.BaseTest.preCondition(BaseTest.java:118) Started executing test:SearchBarCase 
+com.trivago.de.scripts.Subscribe_Newsletter 2018-07-14 17:25:51,604 com.trivago.de.base.BaseTest.postCondition(BaseTest.java:143) Test is PASSED 
+com.trivago.de.scripts.Subscribe_Newsletter 2018-07-14 17:25:51,611 com.trivago.de.base.BaseTest.closeApplication(BaseTest.java:106) Closing Browser 
+com.trivago.de.scripts.Subscribe_Newsletter 2018-07-14 17:25:52,419 com.trivago.de.base.BaseTest.initApplication(BaseTest.java:83) Opening Browser:chrome 
+com.trivago.de.scripts.Subscribe_Newsletter 2018-07-14 17:26:02,750 com.trivago.de.base.BaseTest.preCondition(BaseTest.java:118) Started executing test:ContactFormCase 
+com.trivago.de.scripts.Subscribe_Newsletter 2018-07-14 17:26:19,391 com.trivago.de.base.BaseTest.postCondition(BaseTest.java:143) Test is PASSED 
+com.trivago.de.scripts.Subscribe_Newsletter 2018-07-14 17:26:19,392 com.trivago.de.base.BaseTest.closeApplication(BaseTest.java:106) Closing Browser 
+com.trivago.de.scripts.Subscribe_Newsletter 2018-07-14 17:26:20,242 com.trivago.de.base.BaseTest.initApplication(BaseTest.java:83) Opening Browser:chrome 
+com.trivago.de.scripts.Subscribe_Newsletter 2018-07-14 17:26:29,645 com.trivago.de.base.BaseTest.preCondition(BaseTest.java:118) Started executing test:SearchBarCase 
+com.trivago.de.scripts.Subscribe_Newsletter 2018-07-14 17:26:41,486 com.trivago.de.base.BaseTest.postCondition(BaseTest.java:143) Test is PASSED 
+com.trivago.de.scripts.Subscribe_Newsletter 2018-07-14 17:26:41,487 com.trivago.de.base.BaseTest.closeApplication(BaseTest.java:106) Closing Browser 
+com.trivago.de.scripts.Subscribe_Newsletter 2018-07-14 17:26:42,317 com.trivago.de.base.BaseTest.publishReport(BaseTest.java:66) Publishing ExtentReport:./report/14_07_2018_05_25_37.html 

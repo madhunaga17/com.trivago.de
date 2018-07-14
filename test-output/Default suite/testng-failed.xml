@@ -3,18 +3,18 @@
 <suite guice-stage="DEVELOPMENT" name="Failed suite [Default suite]">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="com.trivago.de.scripts.ContactForm">
+      <class name="com.trivago.de.scripts.Subscribe_Newsletter">
         <methods>
           <include name="preCondition"/>
+          <include name="SearchBarCase"/>
           <include name="initGlobalVar"/>
           <include name="publishReport"/>
           <include name="closeApplication"/>
           <include name="postCondition"/>
           <include name="initApplication"/>
-          <include name="SearchBarCase"/>
           <include name="initReport"/>
         </methods>
-      </class> <!-- com.trivago.de.scripts.ContactForm -->
+      </class> <!-- com.trivago.de.scripts.Subscribe_Newsletter -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->
