@@ -30,6 +30,8 @@ public abstract class HomePage extends BasePage{
 	@FindBy(xpath="//button[@class='submit']")
 	private WebElement Inspire_Me;
 	
+	
+	
 	public void click_TrivagoMagazine_Link(){
 		TrivagoMagazine_Link.click();
 	}
