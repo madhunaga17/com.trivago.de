@@ -9,7 +9,7 @@ import com.trivago.de.pages.SearchBarPage;
 
 public class Destination extends BaseTest{
 	@Test(description="Destination", priority=4)		
-	public void SearchBarCase() throws InterruptedException
+	public void DestinationCase() throws InterruptedException
 	{
 		DashboardPage dPage = new DashboardPage(driver);
 		dPage.click_NavigateIcon();

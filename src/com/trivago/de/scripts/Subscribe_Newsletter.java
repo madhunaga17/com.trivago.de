@@ -8,7 +8,7 @@ import com.trivago.de.pages.SearchBarPage;
 
 public class Subscribe_Newsletter extends BaseTest{
 	@Test(description="Subscribe Newsletter", priority=3)		
-	public void SearchBarCase() throws InterruptedException
+	public void Subscribe_NewsletterCase() throws InterruptedException
 	{
 		DashboardPage dPage = new DashboardPage(driver);
 		dPage.click_CookieButton();
