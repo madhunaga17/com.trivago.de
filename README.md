@@ -1,7 +1,6 @@
 # basic-selenium-project
 This project is written in java and will serve an example of implementing a Selenium test project with Selenium 3, TestNG and Maven.
 Everything is set up and tests can be added straight away.
-To execute the tests just browse testNG.xml(https://github.com/madhunaga17/com.trivago.de/blob/master/testng.xml).
 
 ## Implemented Browsers
 Thanks to the awesome [webdrivermanager]it supports the following browsers and automatically downloads OS specific binaries for:
@@ -26,5 +25,5 @@ The `@Browser` annotation includes or excludes certain browsers from the test ex
 ## Convenient Methods
 you can find a couple of convenient methods like waits, windowshandle
 
-## Import Project
+## To execute the tests
 Download and Import the project in EclipseIDE. Start executing the testNG.xml for all the four test cases execution
