@@ -1,0 +1,10 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="Suite" parallel="false">
+  <test name="Test">
+   <parameter name="browser" value="chrome"/>
+    <classes>
+      <class name="com.trivago.de.scripts.ContactForm"/>
+      <class name="com.trivago.de.scripts.SearchBarTest"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->

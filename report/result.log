@@ -5,3 +5,162 @@ com.trivago.de.scripts.SearchBarTest 2018-07-14 15:18:58,886 com.trivago.de.base
 com.trivago.de.scripts.SearchBarTest 2018-07-14 15:19:02,067 com.trivago.de.base.BaseTest.postCondition(BaseTest.java:143) Test is PASSED 
 com.trivago.de.scripts.SearchBarTest 2018-07-14 15:19:02,076 com.trivago.de.base.BaseTest.closeApplication(BaseTest.java:106) Closing Browser 
 com.trivago.de.scripts.SearchBarTest 2018-07-14 15:19:02,926 com.trivago.de.base.BaseTest.publishReport(BaseTest.java:66) Publishing ExtentReport:./report/14_07_2018_03_18_45.html 
+com.trivago.de.scripts.SearchBarTest 2018-07-14 15:36:32,632 com.trivago.de.base.BaseTest.initReport(BaseTest.java:57) Initializing ExtentReport 
+com.trivago.de.scripts.SearchBarTest 2018-07-14 15:36:32,877 com.trivago.de.base.BaseTest.initGlobalVar(BaseTest.java:72) Initialize Global Variables 
+com.trivago.de.scripts.SearchBarTest 2018-07-14 15:36:32,905 com.trivago.de.base.BaseTest.initApplication(BaseTest.java:83) Opening Browser:chrome 
+com.trivago.de.scripts.SearchBarTest 2018-07-14 15:36:44,591 com.trivago.de.base.BaseTest.preCondition(BaseTest.java:118) Started executing test:SearchBarCase 
+com.trivago.de.scripts.SearchBarTest 2018-07-14 15:36:48,048 com.trivago.de.base.BaseTest.postCondition(BaseTest.java:143) Test is PASSED 
+com.trivago.de.scripts.SearchBarTest 2018-07-14 15:36:48,055 com.trivago.de.base.BaseTest.closeApplication(BaseTest.java:106) Closing Browser 
+com.trivago.de.scripts.SearchBarTest 2018-07-14 15:36:48,906 com.trivago.de.base.BaseTest.publishReport(BaseTest.java:66) Publishing ExtentReport:./report/14_07_2018_03_36_32.html 
+com.trivago.de.scripts.ContactForm 2018-07-14 15:59:54,049 com.trivago.de.base.BaseTest.initReport(BaseTest.java:57) Initializing ExtentReport 
+com.trivago.de.scripts.ContactForm 2018-07-14 15:59:54,290 com.trivago.de.base.BaseTest.initGlobalVar(BaseTest.java:72) Initialize Global Variables 
+com.trivago.de.scripts.ContactForm 2018-07-14 15:59:54,318 com.trivago.de.base.BaseTest.initApplication(BaseTest.java:83) Opening Browser:chrome 
+com.trivago.de.scripts.ContactForm 2018-07-14 16:00:07,955 com.trivago.de.base.BaseTest.preCondition(BaseTest.java:118) Started executing test:SearchBarCase 
+com.trivago.de.scripts.ContactForm 2018-07-14 16:00:11,281 com.trivago.de.base.BaseTest.postCondition(BaseTest.java:138) Test is FAILED 
+com.trivago.de.scripts.ContactForm 2018-07-14 16:00:11,286 com.trivago.de.base.BaseTest.closeApplication(BaseTest.java:106) Closing Browser 
+com.trivago.de.scripts.ContactForm 2018-07-14 16:00:12,159 com.trivago.de.base.BaseTest.publishReport(BaseTest.java:66) Publishing ExtentReport:./report/14_07_2018_03_59_54.html 
+com.trivago.de.scripts.ContactForm 2018-07-14 16:00:24,786 com.trivago.de.base.BaseTest.initReport(BaseTest.java:57) Initializing ExtentReport 
+com.trivago.de.scripts.ContactForm 2018-07-14 16:00:25,028 com.trivago.de.base.BaseTest.initGlobalVar(BaseTest.java:72) Initialize Global Variables 
+com.trivago.de.scripts.ContactForm 2018-07-14 16:00:25,061 com.trivago.de.base.BaseTest.initApplication(BaseTest.java:83) Opening Browser:chrome 
+com.trivago.de.scripts.ContactForm 2018-07-14 16:00:42,790 com.trivago.de.base.BaseTest.preCondition(BaseTest.java:118) Started executing test:SearchBarCase 
+com.trivago.de.scripts.ContactForm 2018-07-14 16:00:46,170 com.trivago.de.base.BaseTest.postCondition(BaseTest.java:138) Test is FAILED 
+com.trivago.de.scripts.ContactForm 2018-07-14 16:00:46,178 com.trivago.de.base.BaseTest.closeApplication(BaseTest.java:106) Closing Browser 
+com.trivago.de.scripts.ContactForm 2018-07-14 16:00:47,291 com.trivago.de.base.BaseTest.publishReport(BaseTest.java:66) Publishing ExtentReport:./report/14_07_2018_04_00_24.html 
+com.trivago.de.scripts.ContactForm 2018-07-14 16:01:00,082 com.trivago.de.base.BaseTest.initReport(BaseTest.java:57) Initializing ExtentReport 
+com.trivago.de.scripts.ContactForm 2018-07-14 16:01:00,346 com.trivago.de.base.BaseTest.initGlobalVar(BaseTest.java:72) Initialize Global Variables 
+com.trivago.de.scripts.ContactForm 2018-07-14 16:01:00,381 com.trivago.de.base.BaseTest.initApplication(BaseTest.java:83) Opening Browser:chrome 
+com.trivago.de.scripts.ContactForm 2018-07-14 16:01:16,889 com.trivago.de.base.BaseTest.preCondition(BaseTest.java:118) Started executing test:SearchBarCase 
+com.trivago.de.scripts.ContactForm 2018-07-14 16:01:20,123 com.trivago.de.base.BaseTest.postCondition(BaseTest.java:138) Test is FAILED 
+com.trivago.de.scripts.ContactForm 2018-07-14 16:01:20,129 com.trivago.de.base.BaseTest.closeApplication(BaseTest.java:106) Closing Browser 
+com.trivago.de.scripts.ContactForm 2018-07-14 16:01:21,053 com.trivago.de.base.BaseTest.publishReport(BaseTest.java:66) Publishing ExtentReport:./report/14_07_2018_04_01_00.html 
+com.trivago.de.scripts.ContactForm 2018-07-14 16:02:49,838 com.trivago.de.base.BaseTest.initReport(BaseTest.java:57) Initializing ExtentReport 
+com.trivago.de.scripts.ContactForm 2018-07-14 16:02:50,103 com.trivago.de.base.BaseTest.initGlobalVar(BaseTest.java:72) Initialize Global Variables 
+com.trivago.de.scripts.ContactForm 2018-07-14 16:02:50,138 com.trivago.de.base.BaseTest.initApplication(BaseTest.java:83) Opening Browser:chrome 
+com.trivago.de.scripts.ContactForm 2018-07-14 16:03:04,762 com.trivago.de.base.BaseTest.preCondition(BaseTest.java:118) Started executing test:SearchBarCase 
+com.trivago.de.scripts.ContactForm 2018-07-14 16:03:08,415 com.trivago.de.base.BaseTest.postCondition(BaseTest.java:138) Test is FAILED 
+com.trivago.de.scripts.ContactForm 2018-07-14 16:03:08,420 com.trivago.de.base.BaseTest.closeApplication(BaseTest.java:106) Closing Browser 
+com.trivago.de.scripts.ContactForm 2018-07-14 16:03:09,895 com.trivago.de.base.BaseTest.publishReport(BaseTest.java:66) Publishing ExtentReport:./report/14_07_2018_04_02_49.html 
+com.trivago.de.scripts.ContactForm 2018-07-14 16:03:15,619 com.trivago.de.base.BaseTest.initReport(BaseTest.java:57) Initializing ExtentReport 
+com.trivago.de.scripts.ContactForm 2018-07-14 16:03:15,860 com.trivago.de.base.BaseTest.initGlobalVar(BaseTest.java:72) Initialize Global Variables 
+com.trivago.de.scripts.ContactForm 2018-07-14 16:03:15,888 com.trivago.de.base.BaseTest.initApplication(BaseTest.java:83) Opening Browser:chrome 
+com.trivago.de.scripts.ContactForm 2018-07-14 16:03:29,228 com.trivago.de.base.BaseTest.preCondition(BaseTest.java:118) Started executing test:SearchBarCase 
+com.trivago.de.scripts.ContactForm 2018-07-14 16:03:44,556 com.trivago.de.base.BaseTest.postCondition(BaseTest.java:143) Test is PASSED 
+com.trivago.de.scripts.ContactForm 2018-07-14 16:03:44,564 com.trivago.de.base.BaseTest.closeApplication(BaseTest.java:106) Closing Browser 
+com.trivago.de.scripts.ContactForm 2018-07-14 16:03:45,414 com.trivago.de.base.BaseTest.publishReport(BaseTest.java:66) Publishing ExtentReport:./report/14_07_2018_04_03_15.html 
+com.trivago.de.scripts.ContactForm 2018-07-14 16:03:51,595 com.trivago.de.base.BaseTest.initReport(BaseTest.java:57) Initializing ExtentReport 
+com.trivago.de.scripts.ContactForm 2018-07-14 16:03:51,853 com.trivago.de.base.BaseTest.initGlobalVar(BaseTest.java:72) Initialize Global Variables 
+com.trivago.de.scripts.ContactForm 2018-07-14 16:03:51,881 com.trivago.de.base.BaseTest.initApplication(BaseTest.java:83) Opening Browser:chrome 
+com.trivago.de.scripts.ContactForm 2018-07-14 16:04:07,549 com.trivago.de.base.BaseTest.preCondition(BaseTest.java:118) Started executing test:SearchBarCase 
+com.trivago.de.scripts.ContactForm 2018-07-14 16:04:10,928 com.trivago.de.base.BaseTest.postCondition(BaseTest.java:138) Test is FAILED 
+com.trivago.de.scripts.ContactForm 2018-07-14 16:04:10,933 com.trivago.de.base.BaseTest.closeApplication(BaseTest.java:106) Closing Browser 
+com.trivago.de.scripts.ContactForm 2018-07-14 16:04:11,844 com.trivago.de.base.BaseTest.publishReport(BaseTest.java:66) Publishing ExtentReport:./report/14_07_2018_04_03_51.html 
+com.trivago.de.scripts.ContactForm 2018-07-14 16:07:06,167 com.trivago.de.base.BaseTest.initReport(BaseTest.java:57) Initializing ExtentReport 
+com.trivago.de.scripts.ContactForm 2018-07-14 16:07:06,440 com.trivago.de.base.BaseTest.initGlobalVar(BaseTest.java:72) Initialize Global Variables 
+com.trivago.de.scripts.ContactForm 2018-07-14 16:07:06,470 com.trivago.de.base.BaseTest.initApplication(BaseTest.java:83) Opening Browser:chrome 
+com.trivago.de.scripts.ContactForm 2018-07-14 16:07:21,160 com.trivago.de.base.BaseTest.preCondition(BaseTest.java:118) Started executing test:SearchBarCase 
+com.trivago.de.scripts.ContactForm 2018-07-14 16:07:27,462 com.trivago.de.base.BaseTest.postCondition(BaseTest.java:143) Test is PASSED 
+com.trivago.de.scripts.ContactForm 2018-07-14 16:07:27,468 com.trivago.de.base.BaseTest.closeApplication(BaseTest.java:106) Closing Browser 
+com.trivago.de.scripts.ContactForm 2018-07-14 16:07:28,782 com.trivago.de.base.BaseTest.publishReport(BaseTest.java:66) Publishing ExtentReport:./report/14_07_2018_04_07_06.html 
+com.trivago.de.scripts.ContactForm 2018-07-14 16:07:51,791 com.trivago.de.base.BaseTest.initReport(BaseTest.java:57) Initializing ExtentReport 
+com.trivago.de.scripts.ContactForm 2018-07-14 16:07:52,032 com.trivago.de.base.BaseTest.initGlobalVar(BaseTest.java:72) Initialize Global Variables 
+com.trivago.de.scripts.ContactForm 2018-07-14 16:07:52,059 com.trivago.de.base.BaseTest.initApplication(BaseTest.java:83) Opening Browser:chrome 
+com.trivago.de.scripts.ContactForm 2018-07-14 16:08:07,878 com.trivago.de.base.BaseTest.preCondition(BaseTest.java:118) Started executing test:SearchBarCase 
+com.trivago.de.scripts.ContactForm 2018-07-14 16:08:11,322 com.trivago.de.base.BaseTest.postCondition(BaseTest.java:138) Test is FAILED 
+com.trivago.de.scripts.ContactForm 2018-07-14 16:08:11,327 com.trivago.de.base.BaseTest.closeApplication(BaseTest.java:106) Closing Browser 
+com.trivago.de.scripts.ContactForm 2018-07-14 16:08:12,720 com.trivago.de.base.BaseTest.publishReport(BaseTest.java:66) Publishing ExtentReport:./report/14_07_2018_04_07_51.html 
+com.trivago.de.scripts.ContactForm 2018-07-14 16:22:10,780 com.trivago.de.base.BaseTest.initReport(BaseTest.java:57) Initializing ExtentReport 
+com.trivago.de.scripts.ContactForm 2018-07-14 16:22:11,022 com.trivago.de.base.BaseTest.initGlobalVar(BaseTest.java:72) Initialize Global Variables 
+com.trivago.de.scripts.ContactForm 2018-07-14 16:22:11,050 com.trivago.de.base.BaseTest.initApplication(BaseTest.java:83) Opening Browser:chrome 
+com.trivago.de.scripts.ContactForm 2018-07-14 16:22:24,379 com.trivago.de.base.BaseTest.preCondition(BaseTest.java:118) Started executing test:SearchBarCase 
+com.trivago.de.scripts.ContactForm 2018-07-14 16:22:27,899 com.trivago.de.base.BaseTest.postCondition(BaseTest.java:138) Test is FAILED 
+com.trivago.de.scripts.ContactForm 2018-07-14 16:22:27,904 com.trivago.de.base.BaseTest.closeApplication(BaseTest.java:106) Closing Browser 
+com.trivago.de.scripts.ContactForm 2018-07-14 16:22:28,737 com.trivago.de.base.BaseTest.publishReport(BaseTest.java:66) Publishing ExtentReport:./report/14_07_2018_04_22_10.html 
+com.trivago.de.scripts.ContactForm 2018-07-14 16:22:38,013 com.trivago.de.base.BaseTest.initReport(BaseTest.java:57) Initializing ExtentReport 
+com.trivago.de.scripts.ContactForm 2018-07-14 16:22:38,255 com.trivago.de.base.BaseTest.initGlobalVar(BaseTest.java:72) Initialize Global Variables 
+com.trivago.de.scripts.ContactForm 2018-07-14 16:22:38,283 com.trivago.de.base.BaseTest.initApplication(BaseTest.java:83) Opening Browser:chrome 
+com.trivago.de.scripts.ContactForm 2018-07-14 16:22:53,256 com.trivago.de.base.BaseTest.preCondition(BaseTest.java:118) Started executing test:SearchBarCase 
+com.trivago.de.scripts.ContactForm 2018-07-14 16:22:56,536 com.trivago.de.base.BaseTest.postCondition(BaseTest.java:138) Test is FAILED 
+com.trivago.de.scripts.ContactForm 2018-07-14 16:22:56,542 com.trivago.de.base.BaseTest.closeApplication(BaseTest.java:106) Closing Browser 
+com.trivago.de.scripts.ContactForm 2018-07-14 16:22:57,389 com.trivago.de.base.BaseTest.publishReport(BaseTest.java:66) Publishing ExtentReport:./report/14_07_2018_04_22_38.html 
+com.trivago.de.scripts.ContactForm 2018-07-14 16:25:30,028 com.trivago.de.base.BaseTest.initReport(BaseTest.java:57) Initializing ExtentReport 
+com.trivago.de.scripts.ContactForm 2018-07-14 16:25:30,266 com.trivago.de.base.BaseTest.initGlobalVar(BaseTest.java:72) Initialize Global Variables 
+com.trivago.de.scripts.ContactForm 2018-07-14 16:25:30,295 com.trivago.de.base.BaseTest.initApplication(BaseTest.java:83) Opening Browser:chrome 
+com.trivago.de.scripts.ContactForm 2018-07-14 16:25:44,845 com.trivago.de.base.BaseTest.preCondition(BaseTest.java:118) Started executing test:SearchBarCase 
+com.trivago.de.scripts.ContactForm 2018-07-14 16:25:48,344 com.trivago.de.base.BaseTest.postCondition(BaseTest.java:138) Test is FAILED 
+com.trivago.de.scripts.ContactForm 2018-07-14 16:25:48,349 com.trivago.de.base.BaseTest.closeApplication(BaseTest.java:106) Closing Browser 
+com.trivago.de.scripts.ContactForm 2018-07-14 16:25:49,444 com.trivago.de.base.BaseTest.publishReport(BaseTest.java:66) Publishing ExtentReport:./report/14_07_2018_04_25_30.html 
+com.trivago.de.scripts.ContactForm 2018-07-14 16:26:07,085 com.trivago.de.base.BaseTest.initReport(BaseTest.java:57) Initializing ExtentReport 
+com.trivago.de.scripts.ContactForm 2018-07-14 16:26:07,317 com.trivago.de.base.BaseTest.initGlobalVar(BaseTest.java:72) Initialize Global Variables 
+com.trivago.de.scripts.ContactForm 2018-07-14 16:26:07,345 com.trivago.de.base.BaseTest.initApplication(BaseTest.java:83) Opening Browser:chrome 
+com.trivago.de.scripts.ContactForm 2018-07-14 16:26:24,640 com.trivago.de.base.BaseTest.preCondition(BaseTest.java:118) Started executing test:SearchBarCase 
+com.trivago.de.scripts.ContactForm 2018-07-14 16:26:58,315 com.trivago.de.base.BaseTest.postCondition(BaseTest.java:138) Test is FAILED 
+com.trivago.de.scripts.ContactForm 2018-07-14 16:26:58,319 com.trivago.de.base.BaseTest.closeApplication(BaseTest.java:106) Closing Browser 
+com.trivago.de.scripts.ContactForm 2018-07-14 16:26:59,564 com.trivago.de.base.BaseTest.publishReport(BaseTest.java:66) Publishing ExtentReport:./report/14_07_2018_04_26_07.html 
+com.trivago.de.scripts.ContactForm 2018-07-14 16:28:46,043 com.trivago.de.base.BaseTest.initReport(BaseTest.java:57) Initializing ExtentReport 
+com.trivago.de.scripts.ContactForm 2018-07-14 16:28:46,288 com.trivago.de.base.BaseTest.initGlobalVar(BaseTest.java:72) Initialize Global Variables 
+com.trivago.de.scripts.ContactForm 2018-07-14 16:28:46,316 com.trivago.de.base.BaseTest.initApplication(BaseTest.java:83) Opening Browser:chrome 
+com.trivago.de.scripts.ContactForm 2018-07-14 16:29:01,021 com.trivago.de.base.BaseTest.preCondition(BaseTest.java:118) Started executing test:SearchBarCase 
+com.trivago.de.scripts.ContactForm 2018-07-14 16:29:34,755 com.trivago.de.base.BaseTest.postCondition(BaseTest.java:138) Test is FAILED 
+com.trivago.de.scripts.ContactForm 2018-07-14 16:29:34,760 com.trivago.de.base.BaseTest.closeApplication(BaseTest.java:106) Closing Browser 
+com.trivago.de.scripts.ContactForm 2018-07-14 16:29:36,008 com.trivago.de.base.BaseTest.publishReport(BaseTest.java:66) Publishing ExtentReport:./report/14_07_2018_04_28_46.html 
+com.trivago.de.scripts.ContactForm 2018-07-14 16:32:30,660 com.trivago.de.base.BaseTest.initReport(BaseTest.java:57) Initializing ExtentReport 
+com.trivago.de.scripts.ContactForm 2018-07-14 16:32:30,922 com.trivago.de.base.BaseTest.initGlobalVar(BaseTest.java:72) Initialize Global Variables 
+com.trivago.de.scripts.ContactForm 2018-07-14 16:32:30,954 com.trivago.de.base.BaseTest.initApplication(BaseTest.java:83) Opening Browser:chrome 
+com.trivago.de.scripts.ContactForm 2018-07-14 16:32:44,575 com.trivago.de.base.BaseTest.preCondition(BaseTest.java:118) Started executing test:SearchBarCase 
+com.trivago.de.scripts.ContactForm 2018-07-14 16:33:00,900 com.trivago.de.base.BaseTest.postCondition(BaseTest.java:143) Test is PASSED 
+com.trivago.de.scripts.ContactForm 2018-07-14 16:33:00,907 com.trivago.de.base.BaseTest.closeApplication(BaseTest.java:106) Closing Browser 
+com.trivago.de.scripts.ContactForm 2018-07-14 16:33:01,773 com.trivago.de.base.BaseTest.publishReport(BaseTest.java:66) Publishing ExtentReport:./report/14_07_2018_04_32_30.html 
+com.trivago.de.scripts.ContactForm 2018-07-14 16:35:31,847 com.trivago.de.base.BaseTest.initReport(BaseTest.java:57) Initializing ExtentReport 
+com.trivago.de.scripts.ContactForm 2018-07-14 16:35:32,123 com.trivago.de.base.BaseTest.initGlobalVar(BaseTest.java:72) Initialize Global Variables 
+com.trivago.de.scripts.ContactForm 2018-07-14 16:35:32,156 com.trivago.de.base.BaseTest.initApplication(BaseTest.java:83) Opening Browser:chrome 
+com.trivago.de.scripts.ContactForm 2018-07-14 16:35:47,107 com.trivago.de.base.BaseTest.preCondition(BaseTest.java:118) Started executing test:SearchBarCase 
+com.trivago.de.scripts.ContactForm 2018-07-14 16:36:03,317 com.trivago.de.base.BaseTest.postCondition(BaseTest.java:143) Test is PASSED 
+com.trivago.de.scripts.ContactForm 2018-07-14 16:36:03,325 com.trivago.de.base.BaseTest.closeApplication(BaseTest.java:106) Closing Browser 
+com.trivago.de.scripts.ContactForm 2018-07-14 16:36:04,227 com.trivago.de.base.BaseTest.publishReport(BaseTest.java:66) Publishing ExtentReport:./report/14_07_2018_04_35_31.html 
+com.trivago.de.scripts.ContactForm 2018-07-14 16:40:59,941 com.trivago.de.base.BaseTest.initReport(BaseTest.java:57) Initializing ExtentReport 
+com.trivago.de.scripts.ContactForm 2018-07-14 16:41:00,184 com.trivago.de.base.BaseTest.initGlobalVar(BaseTest.java:72) Initialize Global Variables 
+com.trivago.de.scripts.ContactForm 2018-07-14 16:41:00,213 com.trivago.de.base.BaseTest.initApplication(BaseTest.java:83) Opening Browser:chrome 
+com.trivago.de.scripts.ContactForm 2018-07-14 16:41:13,964 com.trivago.de.base.BaseTest.preCondition(BaseTest.java:118) Started executing test:SearchBarCase 
+com.trivago.de.scripts.ContactForm 2018-07-14 16:41:30,695 com.trivago.de.base.BaseTest.postCondition(BaseTest.java:143) Test is PASSED 
+com.trivago.de.scripts.ContactForm 2018-07-14 16:41:30,702 com.trivago.de.base.BaseTest.closeApplication(BaseTest.java:106) Closing Browser 
+com.trivago.de.scripts.ContactForm 2018-07-14 16:41:31,567 com.trivago.de.base.BaseTest.publishReport(BaseTest.java:66) Publishing ExtentReport:./report/14_07_2018_04_40_59.html 
+com.trivago.de.scripts.ContactForm 2018-07-14 16:42:40,599 com.trivago.de.base.BaseTest.initReport(BaseTest.java:57) Initializing ExtentReport 
+com.trivago.de.scripts.ContactForm 2018-07-14 16:42:40,847 com.trivago.de.base.BaseTest.initGlobalVar(BaseTest.java:72) Initialize Global Variables 
+com.trivago.de.scripts.ContactForm 2018-07-14 16:42:40,875 com.trivago.de.base.BaseTest.initApplication(BaseTest.java:83) Opening Browser:chrome 
+com.trivago.de.scripts.ContactForm 2018-07-14 16:42:53,231 com.trivago.de.base.BaseTest.preCondition(BaseTest.java:118) Started executing test:SearchBarCase 
+com.trivago.de.scripts.ContactForm 2018-07-14 16:43:09,580 com.trivago.de.base.BaseTest.postCondition(BaseTest.java:143) Test is PASSED 
+com.trivago.de.scripts.ContactForm 2018-07-14 16:43:09,586 com.trivago.de.base.BaseTest.closeApplication(BaseTest.java:106) Closing Browser 
+com.trivago.de.scripts.ContactForm 2018-07-14 16:43:10,502 com.trivago.de.base.BaseTest.publishReport(BaseTest.java:66) Publishing ExtentReport:./report/14_07_2018_04_42_40.html 
+com.trivago.de.scripts.SearchBarTest 2018-07-14 16:51:29,400 com.trivago.de.base.BaseTest.initReport(BaseTest.java:57) Initializing ExtentReport 
+com.trivago.de.scripts.SearchBarTest 2018-07-14 16:51:29,639 com.trivago.de.base.BaseTest.initGlobalVar(BaseTest.java:72) Initialize Global Variables 
+com.trivago.de.scripts.SearchBarTest 2018-07-14 16:51:29,669 com.trivago.de.base.BaseTest.initApplication(BaseTest.java:83) Opening Browser:chrome 
+com.trivago.de.scripts.SearchBarTest 2018-07-14 16:51:41,628 com.trivago.de.base.BaseTest.preCondition(BaseTest.java:118) Started executing test:SearchBarCase 
+com.trivago.de.scripts.SearchBarTest 2018-07-14 16:52:04,808 com.trivago.de.base.BaseTest.postCondition(BaseTest.java:143) Test is PASSED 
+com.trivago.de.scripts.SearchBarTest 2018-07-14 16:52:04,814 com.trivago.de.base.BaseTest.closeApplication(BaseTest.java:106) Closing Browser 
+com.trivago.de.scripts.SearchBarTest 2018-07-14 16:52:05,643 com.trivago.de.base.BaseTest.initApplication(BaseTest.java:83) Opening Browser:chrome 
+com.trivago.de.scripts.SearchBarTest 2018-07-14 16:52:15,044 com.trivago.de.base.BaseTest.preCondition(BaseTest.java:118) Started executing test:SearchBarCase 
+com.trivago.de.scripts.SearchBarTest 2018-07-14 16:52:18,499 com.trivago.de.base.BaseTest.postCondition(BaseTest.java:143) Test is PASSED 
+com.trivago.de.scripts.SearchBarTest 2018-07-14 16:52:18,501 com.trivago.de.base.BaseTest.closeApplication(BaseTest.java:106) Closing Browser 
+com.trivago.de.scripts.SearchBarTest 2018-07-14 16:52:19,366 com.trivago.de.base.BaseTest.publishReport(BaseTest.java:66) Publishing ExtentReport:./report/14_07_2018_04_51_29.html 
+com.trivago.de.scripts.SearchBarTest 2018-07-14 16:53:13,235 com.trivago.de.base.BaseTest.initReport(BaseTest.java:57) Initializing ExtentReport 
+com.trivago.de.scripts.SearchBarTest 2018-07-14 16:53:13,471 com.trivago.de.base.BaseTest.initGlobalVar(BaseTest.java:72) Initialize Global Variables 
+com.trivago.de.scripts.SearchBarTest 2018-07-14 16:53:13,502 com.trivago.de.base.BaseTest.initApplication(BaseTest.java:83) Opening Browser:chrome 
+com.trivago.de.scripts.SearchBarTest 2018-07-14 16:53:24,962 com.trivago.de.base.BaseTest.preCondition(BaseTest.java:118) Started executing test:SearchBarCase 
+com.trivago.de.scripts.SearchBarTest 2018-07-14 16:53:28,151 com.trivago.de.base.BaseTest.postCondition(BaseTest.java:143) Test is PASSED 
+com.trivago.de.scripts.SearchBarTest 2018-07-14 16:53:28,160 com.trivago.de.base.BaseTest.closeApplication(BaseTest.java:106) Closing Browser 
+com.trivago.de.scripts.SearchBarTest 2018-07-14 16:53:28,965 com.trivago.de.base.BaseTest.initApplication(BaseTest.java:83) Opening Browser:chrome 
+com.trivago.de.scripts.SearchBarTest 2018-07-14 16:53:38,797 com.trivago.de.base.BaseTest.preCondition(BaseTest.java:118) Started executing test:SearchBarCase 
+com.trivago.de.scripts.SearchBarTest 2018-07-14 16:53:55,123 com.trivago.de.base.BaseTest.postCondition(BaseTest.java:143) Test is PASSED 
+com.trivago.de.scripts.SearchBarTest 2018-07-14 16:53:55,124 com.trivago.de.base.BaseTest.closeApplication(BaseTest.java:106) Closing Browser 
+com.trivago.de.scripts.SearchBarTest 2018-07-14 16:53:55,977 com.trivago.de.base.BaseTest.publishReport(BaseTest.java:66) Publishing ExtentReport:./report/14_07_2018_04_53_13.html 
+com.trivago.de.scripts.SearchBarTest 2018-07-14 16:55:09,738 com.trivago.de.base.BaseTest.initReport(BaseTest.java:57) Initializing ExtentReport 
+com.trivago.de.scripts.SearchBarTest 2018-07-14 16:55:09,973 com.trivago.de.base.BaseTest.initGlobalVar(BaseTest.java:72) Initialize Global Variables 
+com.trivago.de.scripts.SearchBarTest 2018-07-14 16:55:10,005 com.trivago.de.base.BaseTest.initApplication(BaseTest.java:83) Opening Browser:chrome 
+com.trivago.de.scripts.SearchBarTest 2018-07-14 16:55:25,723 com.trivago.de.base.BaseTest.preCondition(BaseTest.java:118) Started executing test:SearchBarCase 
+com.trivago.de.scripts.SearchBarTest 2018-07-14 16:55:29,092 com.trivago.de.base.BaseTest.postCondition(BaseTest.java:143) Test is PASSED 
+com.trivago.de.scripts.SearchBarTest 2018-07-14 16:55:29,101 com.trivago.de.base.BaseTest.closeApplication(BaseTest.java:106) Closing Browser 
+com.trivago.de.scripts.SearchBarTest 2018-07-14 16:55:30,161 com.trivago.de.base.BaseTest.initApplication(BaseTest.java:83) Opening Browser:chrome 
+com.trivago.de.scripts.SearchBarTest 2018-07-14 16:55:41,632 com.trivago.de.base.BaseTest.preCondition(BaseTest.java:118) Started executing test:ContactFormCase 
+com.trivago.de.scripts.SearchBarTest 2018-07-14 16:55:59,708 com.trivago.de.base.BaseTest.postCondition(BaseTest.java:143) Test is PASSED 
+com.trivago.de.scripts.SearchBarTest 2018-07-14 16:55:59,710 com.trivago.de.base.BaseTest.closeApplication(BaseTest.java:106) Closing Browser 
+com.trivago.de.scripts.SearchBarTest 2018-07-14 16:56:00,583 com.trivago.de.base.BaseTest.publishReport(BaseTest.java:66) Publishing ExtentReport:./report/14_07_2018_04_55_09.html 

@@ -1,6 +1,8 @@
 package com.trivago.de.base;
 
 import java.util.ArrayList;
+import java.util.Iterator;
+import java.util.Set;
 
 import org.apache.log4j.Logger;
 import org.openqa.selenium.By;
@@ -31,7 +33,6 @@ public abstract class BasePage {
   public void verifyURLhas(String expectedUrl){
 	  wait.until(ExpectedConditions.urlContains(expectedUrl));
   }
-  
   
   
   
@@ -125,8 +126,28 @@ public abstract class BasePage {
 	  {
 		  log.info("FAIL:Element Not Present");
 		  return false;
-	  }
+	  }  
+  
   }
-  
-  
+
+  public void switchToWindows(){
+	  String handle= driver.getWindowHandle();
+		 
+      System.out.println(handle);
+           
+  }
+
+  public void switchToWindowsChild (){ 
+		Set handles = driver.getWindowHandles();
+	
+	    System.out.println(handles);
+	
+	    for (String handle1 : driver.getWindowHandles()) {
+	    	  
+	    System.out.println(handle1);
+	
+	  	driver.switchTo().window(handle1);
+
+  	}
+  }
 }

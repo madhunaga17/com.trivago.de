@@ -15,6 +15,12 @@ public abstract class HomePage extends BasePage{
 	@FindBy(xpath="//div[@class='nav-icon']")
 	private WebElement NavigateIcon;
 	
+	@FindBy(xpath="//a[contains(text(),'Contact')]")
+	private WebElement ContactForm;
+	
+	@FindBy(xpath="//div[@class='Cookie__button']")
+	private WebElement CookieButton;
+	
 	public void click_TrivagoMagazine_Link(){
 		TrivagoMagazine_Link.click();
 	}
@@ -25,6 +31,14 @@ public abstract class HomePage extends BasePage{
 	
 	public void click_NavigateIcon(){
 		NavigateIcon.click();
+	}
+	
+	public void click_ContactForm(){
+		ContactForm.click();
+	}
+	
+	public void click_CookieButton(){
+		CookieButton.click();
 	}
 	
 	public HomePage(WebDriver driver) {

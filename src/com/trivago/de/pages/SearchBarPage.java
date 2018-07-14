@@ -8,7 +8,7 @@ import org.openqa.selenium.support.FindBy;
 
 import com.trivago.de.base.HomePage;
 
-public class SearchBar extends HomePage{ 
+public class SearchBarPage extends HomePage{ 
 	
 	@FindBy(xpath="//input[@class='input search-input']")
 	private WebElement SearchString;
@@ -28,7 +28,7 @@ public class SearchBar extends HomePage{
 		System.out.println("Search bar closed");
 	}
 	
-	public SearchBar(WebDriver driver) {
+	public SearchBarPage(WebDriver driver) {
 		super(driver);
 	}
 
