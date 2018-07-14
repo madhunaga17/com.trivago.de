@@ -2,20 +2,20 @@
 <testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="19719" started-at="2018-07-14T10:57:39Z" finished-at="2018-07-14T10:57:59Z">
+  <suite name="Default suite" duration-ms="17474" started-at="2018-07-14T13:18:45Z" finished-at="2018-07-14T13:19:02Z">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="19719" started-at="2018-07-14T10:57:39Z" finished-at="2018-07-14T10:57:59Z">
-      <class name="com.trivago.de.scripts.LoginLogoutTest">
-        <test-method status="PASS" signature="initReport()[pri:0, instance:com.trivago.de.scripts.LoginLogoutTest@627551fb]" name="initReport" is-config="true" duration-ms="310" started-at="2018-07-14T10:57:39Z" finished-at="2018-07-14T10:57:39Z">
+    <test name="Default test" duration-ms="17474" started-at="2018-07-14T13:18:45Z" finished-at="2018-07-14T13:19:02Z">
+      <class name="com.trivago.de.scripts.SearchBarTest">
+        <test-method status="PASS" signature="initReport()[pri:0, instance:com.trivago.de.scripts.SearchBarTest@627551fb]" name="initReport" is-config="true" duration-ms="271" started-at="2018-07-14T13:18:45Z" finished-at="2018-07-14T13:18:45Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- initReport -->
-        <test-method status="PASS" signature="initGlobalVar()[pri:0, instance:com.trivago.de.scripts.LoginLogoutTest@627551fb]" name="initGlobalVar" is-config="true" duration-ms="3" started-at="2018-07-14T10:57:39Z" finished-at="2018-07-14T10:57:39Z">
+        <test-method status="PASS" signature="initGlobalVar()[pri:0, instance:com.trivago.de.scripts.SearchBarTest@627551fb]" name="initGlobalVar" is-config="true" duration-ms="3" started-at="2018-07-14T13:18:45Z" finished-at="2018-07-14T13:18:45Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- initGlobalVar -->
-        <test-method status="PASS" signature="initApplication(java.lang.String)[pri:0, instance:com.trivago.de.scripts.LoginLogoutTest@627551fb]" name="initApplication" is-config="true" duration-ms="8582" started-at="2018-07-14T10:57:39Z" finished-at="2018-07-14T10:57:48Z">
+        <test-method status="PASS" signature="initApplication(java.lang.String)[pri:0, instance:com.trivago.de.scripts.SearchBarTest@627551fb]" name="initApplication" is-config="true" duration-ms="5513" started-at="2018-07-14T13:18:45Z" finished-at="2018-07-14T13:18:50Z">
           <params>
             <param index="0">
               <value>
@@ -26,41 +26,41 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- initApplication -->
-        <test-method status="PASS" signature="preCondition(java.lang.reflect.Method)[pri:0, instance:com.trivago.de.scripts.LoginLogoutTest@627551fb]" name="preCondition" is-config="true" duration-ms="10302" started-at="2018-07-14T10:57:48Z" finished-at="2018-07-14T10:57:58Z">
+        <test-method status="PASS" signature="preCondition(java.lang.reflect.Method)[pri:0, instance:com.trivago.de.scripts.SearchBarTest@627551fb]" name="preCondition" is-config="true" duration-ms="7923" started-at="2018-07-14T13:18:50Z" finished-at="2018-07-14T13:18:58Z">
           <params>
             <param index="0">
               <value>
-                <![CDATA[public void com.trivago.de.scripts.LoginLogoutTest.testAutoLoginLogout()]]>
+                <![CDATA[public void com.trivago.de.scripts.SearchBarTest.SearchBarCase() throws java.lang.InterruptedException]]>
               </value>
             </param>
           </params>
           <reporter-output>
           </reporter-output>
         </test-method> <!-- preCondition -->
-        <test-method status="PASS" signature="testAutoLoginLogout()[pri:0, instance:com.trivago.de.scripts.LoginLogoutTest@627551fb]" name="testAutoLoginLogout" duration-ms="13" started-at="2018-07-14T10:57:58Z" finished-at="2018-07-14T10:57:58Z">
+        <test-method status="PASS" signature="SearchBarCase()[pri:0, instance:com.trivago.de.scripts.SearchBarTest@627551fb]" name="SearchBarCase" duration-ms="3171" started-at="2018-07-14T13:18:58Z" finished-at="2018-07-14T13:19:02Z">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- testAutoLoginLogout -->
-        <test-method status="PASS" signature="postCondition(org.testng.ITestResult)[pri:0, instance:com.trivago.de.scripts.LoginLogoutTest@627551fb]" name="postCondition" is-config="true" duration-ms="8" started-at="2018-07-14T10:57:58Z" finished-at="2018-07-14T10:57:58Z">
+        </test-method> <!-- SearchBarCase -->
+        <test-method status="PASS" signature="postCondition(org.testng.ITestResult)[pri:0, instance:com.trivago.de.scripts.SearchBarTest@627551fb]" name="postCondition" is-config="true" duration-ms="10" started-at="2018-07-14T13:19:02Z" finished-at="2018-07-14T13:19:02Z">
           <params>
             <param index="0">
               <value>
-                <![CDATA[[TestResult name=testAutoLoginLogout status=SUCCESS method=LoginLogoutTest.testAutoLoginLogout()[pri:0, instance:com.trivago.de.scripts.LoginLogoutTest@627551fb] output={null}]]]>
+                <![CDATA[[TestResult name=SearchBarCase status=SUCCESS method=SearchBarTest.SearchBarCase()[pri:0, instance:com.trivago.de.scripts.SearchBarTest@627551fb] output={null}]]]>
               </value>
             </param>
           </params>
           <reporter-output>
           </reporter-output>
         </test-method> <!-- postCondition -->
-        <test-method status="PASS" signature="closeApplication()[pri:0, instance:com.trivago.de.scripts.LoginLogoutTest@627551fb]" name="closeApplication" is-config="true" duration-ms="774" started-at="2018-07-14T10:57:58Z" finished-at="2018-07-14T10:57:59Z">
+        <test-method status="PASS" signature="closeApplication()[pri:0, instance:com.trivago.de.scripts.SearchBarTest@627551fb]" name="closeApplication" is-config="true" duration-ms="816" started-at="2018-07-14T13:19:02Z" finished-at="2018-07-14T13:19:02Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- closeApplication -->
-        <test-method status="PASS" signature="publishReport()[pri:0, instance:com.trivago.de.scripts.LoginLogoutTest@627551fb]" name="publishReport" is-config="true" duration-ms="655" started-at="2018-07-14T10:57:59Z" finished-at="2018-07-14T10:58:00Z">
+        <test-method status="PASS" signature="publishReport()[pri:0, instance:com.trivago.de.scripts.SearchBarTest@627551fb]" name="publishReport" is-config="true" duration-ms="742" started-at="2018-07-14T13:19:02Z" finished-at="2018-07-14T13:19:03Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- publishReport -->
-      </class> <!-- com.trivago.de.scripts.LoginLogoutTest -->
+      </class> <!-- com.trivago.de.scripts.SearchBarTest -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>
