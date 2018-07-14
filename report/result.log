@@ -1,0 +1,7 @@
+com.trivago.de.scripts.LoginLogoutTest 2018-07-14 12:57:39,294 com.trivago.de.base.BaseTest.initReport(BaseTest.java:57) Initializing ExtentReport 
+com.trivago.de.scripts.LoginLogoutTest 2018-07-14 12:57:39,584 com.trivago.de.base.BaseTest.initGlobalVar(BaseTest.java:72) Initialize Global Variables 
+com.trivago.de.scripts.LoginLogoutTest 2018-07-14 12:57:39,611 com.trivago.de.base.BaseTest.initApplication(BaseTest.java:83) Opening Browser:chrome 
+com.trivago.de.scripts.LoginLogoutTest 2018-07-14 12:57:58,494 com.trivago.de.base.BaseTest.preCondition(BaseTest.java:118) Started executing test:testAutoLoginLogout 
+com.trivago.de.scripts.LoginLogoutTest 2018-07-14 12:57:58,517 com.trivago.de.base.BaseTest.postCondition(BaseTest.java:143) Test is PASSED 
+com.trivago.de.scripts.LoginLogoutTest 2018-07-14 12:57:58,524 com.trivago.de.base.BaseTest.closeApplication(BaseTest.java:106) Closing Browser 
+com.trivago.de.scripts.LoginLogoutTest 2018-07-14 12:57:59,346 com.trivago.de.base.BaseTest.publishReport(BaseTest.java:66) Publishing ExtentReport:./report/14_07_2018_12_57_39.html 
